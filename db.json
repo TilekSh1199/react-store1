@@ -1,0 +1,44 @@
+{
+    "products": [
+      {
+        "title": "iphone 10",
+        "image": "https://ae01.alicdn.com/kf/HTB1y70NasfrK1Rjy0Fmq6xhEXXay/9H-Tempered-Glass-Screen-Protector-Case-For-iPhone-7-7Plus-4-4S-5-5S-5C-5SE.jpg",
+        "price": 5000,
+        "type": "apple",
+        "description": "...from China Suppliers:9H Tempered Glass S",
+        "id": 1
+      },
+      {
+        "title": "samsung s10",
+        "image": "https://cdn0.youla.io/files/images/780_780/60/d8/60d8ad40120b5462860fa643-1.jpg",
+        "price": 10000,
+        "type": "samsung",
+        "description": "Цифромаркет Мобайл в Instagram: \"Samsung Galaxy S10e цитрус ⠀ Корпус ц...",
+        "id": 2
+      },
+      {
+        "title": "macbook pro",
+        "image": "https://assets.website-files.com/5d259d9ab18bb04eb82d4dd6/5e5d3838232a583ca605b3d0_Macbook%20Pro.jpg",
+        "price": 20000,
+        "type": "apple",
+        "description": "MacBook Pro 16'' Mockup presentationkit.pro MacBook Pro 16'' Mockups.",
+        "id": 3
+      },
+      {
+        "title": "samsung s20",
+        "image": "https://slotbg.com/image/cache/catalog/Samsung/s20%20ultra-800x800.jpg",
+        "price": 40000,
+        "type": "samsung",
+        "description": "Samsung Galaxy S20 Ultra 128GB, Купи онлайн SlotMobile slotbg.com Новият смартфон Galaxy S20 Ultra с 6.9\" A",
+        "id": 4
+      },
+      {
+        "title": "apple watch",
+        "image": "https://timeandtidewatches.com/wp-content/uploads/2018/05/Apple-watch-series-3-edition-1.jpg",
+        "price": 50000,
+        "type": "apple",
+        "description": "apple watch series 4 video off 63 silversandevent.com Introducing Apple Watch Series 4 Apple Watch Series 4 features [Video Apple \u0007...",
+        "id": 5
+      }
+    ]
+  }
